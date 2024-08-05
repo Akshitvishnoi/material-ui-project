@@ -29,7 +29,7 @@ function Header() {
                     </IconButton>
                 </SideDrawer>
                 <Typography variant="h6" className={classes.title}>
-                    Blogging Website
+                    website for Blog
                 </Typography>
                 <IconButton color="inherit">
                     <Badge badgeContent={7 + "+"} color="info">
